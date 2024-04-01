@@ -1,0 +1,3 @@
+*.env
+*.pt
+save_models/*.*
